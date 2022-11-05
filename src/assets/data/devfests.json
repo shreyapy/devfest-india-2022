@@ -57,6 +57,25 @@
         }
     },
     {
+        "City": "Gurugram",
+        "CommunityName": "GDG Gurugram",
+        "DevFestName": "DevFest Gurugram",
+        "Days": "1",
+        "StartingDate": "2022-11-27",
+        "EndingDate": "2022-11-27",
+        "Venue": "TBD",
+        "Description": "The event will be multi-track where you will learn a wide range of technologies. There is a panel discussion and Q&A also in line, where you will get to ask questions directly to our speaker guests. (Whatever is in your mind you can shoot it out here!) We plan to keep your weekend filled with learning, happiness, and lots of networking. (Did you just skip a heart beat? Us too ;) )  This event is free of cost invite-only, so a confirmation email is mandatory to attend the event. More details will be updated soon.",
+        "EventLink": "https://devfest.gdgkolkata.in",
+        "CommunityPage": "https://gdg.community.dev/events/details/google-gdg-gurugram-presents-devfest22-gurugram/",
+        "Visible": "true",
+        "State": "Haryana",
+        "CFP": {
+            "Status": "1",
+            "Link": "https://www.commudle.com/fill-form/1566",
+            "LastDate": "2022-10-27"
+        }
+    },
+    {
         "City": "Lucknow",
         "CommunityName": "GDG Lucknow",
         "DevFestName": "DevFest Lucknow",
